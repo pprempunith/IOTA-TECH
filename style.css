@@ -45,6 +45,11 @@
     border-radius: 50px;
 }
 
+.text-primary img{
+    max-width: 40px;
+   max-height: 40px;
+   margin-right: 5px;
+}
 
 .sidebar {
     position: fixed;
